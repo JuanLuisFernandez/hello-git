@@ -1,1 +1,1 @@
-print("Login después de borra rama")
+print("Login como otro contribuidor"
